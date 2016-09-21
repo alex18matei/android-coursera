@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dailyselfie.mateialexandru.myapplication">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/android:Theme.Holo.Light"
+        android:supportsRtl="true"
+        >
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".DailySelfieActivity">
+        </activity>
+
+
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="dailyselfie.mateialexandru.myapplication.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/files_paths"/>
+        </provider>
+
+        <provider android:authorities="com.facebook.app.FacebookContentProvider637953576352646"
+            android:name="com.facebook.FacebookContentProvider"
+            android:exported="true"/>
+
+
+        <receiver android:name=".AlarmNotificationReceiver" >
+        </receiver>
+
+    </application>
+
+</manifest>

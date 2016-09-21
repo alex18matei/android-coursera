@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/activity_menu_item"
+        android:showAsAction="ifRoom|withText"
+        android:icon="@drawable/minicamera"
+
+        android:title="@string/title_item_action_bar_camera"
+    />
+
+    <item
+        android:id="@+id/alarm_item"
+        android:showAsAction="ifRoom|withText"
+        android:icon="@drawable/clock"
+
+        android:title="@string/title_item_action_bar_alarm"
+        />
+
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:padding="20dp"
+    android:background="@drawable/list_item_background"
+    android:id="@+id/item_list_view"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/selfie"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:contentDescription="@string/slefie_photo_description"
+        />
+
+    <TextView
+        android:id="@+id/selfie_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorGreen"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+</LinearLayout>

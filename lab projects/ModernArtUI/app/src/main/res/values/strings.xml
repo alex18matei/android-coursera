@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+
+    <string name="more_information">More information</string>
+    <string name="more_information_message">More information : Lorem ipsum dolor sit amet</string>
+    <string name="not_now">Not Now</string>
+    <string name="visit_moma">Visit MOMA</string>
+</resources>

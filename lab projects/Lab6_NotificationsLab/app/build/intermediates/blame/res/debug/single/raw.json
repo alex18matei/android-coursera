@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lgaga.txt",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\src\\main\\res\\raw\\lgaga.txt"
+    },
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rblack.txt",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\src\\main\\res\\raw\\rblack.txt"
+    },
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tswift.txt",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\src\\main\\res\\raw\\tswift.txt"
+    }
+]

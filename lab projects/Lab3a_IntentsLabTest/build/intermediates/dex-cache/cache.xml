@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Matei_Alexandru\projects\Lab3a_IntentsLabTest\lab3a_IntentsLab\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0647f0f77019e1c306b066f7ef8dac95e4baf6c2">
+        <dex dex="D:\Matei_Alexandru\projects\Lab3a_IntentsLabTest\lab3a_IntentsLab\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_16dfd913fefebf78325b82ce6156c5b021d13c96\classes.dex" />
+    </item>
+    <item
+        jar="D:\Matei_Alexandru\projects\Lab3a_IntentsLabTest\lab3a_IntentsLab\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="63e0d31b7a5ed6d6ceae1bda49bb162f1dbb5e72">
+        <dex dex="D:\Matei_Alexandru\projects\Lab3a_IntentsLabTest\lab3a_IntentsLab\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_441b4524c1d741a46513fa82c1c8a97e4893bf00\classes.dex" />
+    </item>
+
+</items>

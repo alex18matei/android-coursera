@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Daily Selfie</string>
+    <string name="title_item_action_bar_camera">Camera</string>
+    <string name="title_item_action_bar_alarm">Set Alarm</string>
+    <string name="share">Share</string>
+    <string name="slefie_photo_description">Selfie Photo</string>
+
+    <string name="delete">Delete</string>
+    <string name="select_all">Select All</string>
+    <string name="dialog_delete_message">Do you want to delete this selfie ?</string>
+    <string name="dialog_delete_title">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="facebook_app_id">637953576352646</string>
+
+</resources>

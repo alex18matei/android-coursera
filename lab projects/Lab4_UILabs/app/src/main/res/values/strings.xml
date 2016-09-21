@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UILabs</string>
+    <string name="done_string">Done:</string>
+    <string name="priority_string">Priority:</string>
+    <string name="date_string">Date:</string>
+    <string name="add_new_todo_item_string">Add New ToDo Item</string>
+    <string name="title_string">Title</string>
+    <string name="status_string">Status</string>
+    <string name="not_done_string">Not Done</string>
+    <string name="priority_low_string">Low</string>
+    <string name="priority_medium_string">Medium</string>
+    <string name="priority_high_string">High</string>
+    <string name="time_and_date_string">Time and Date</string>
+    <string name="no_date_set_string">0000&#8211;00&#8211;00</string>
+    <string name="no_time_set_string">00:00:00</string>
+    <string name="choose_date_string">Choose Date</string>
+    <string name="choose_time_string">Choose Time</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="reset_string">Reset</string>
+    <string name="submit_string">Submit</string>
+    <string name="enter_title_string">Enter Title</string>
+
+    <string name="dialog_delete_message">Do you want to delete this ToDo Item ?</string>
+    <string name="dialog_delete_title">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string-array name="priority_array">
+        <item>LOW</item>
+        <item>MED</item>
+        <item>HIGH</item>
+    </string-array>
+
+    <string name="tab1">Tab1</string>
+    <string name="tab2">Tab2</string>
+    <string name="tab3">Tab3</string>
+
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loader_activity.xml",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab3b_PermissionsLab\\app\\src\\main\\res\\layout\\activity_loader_activity.xml"
+    },
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\go_to_dangerous_activity.xml",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab3b_PermissionsLab\\app\\src\\main\\res\\layout\\go_to_dangerous_activity.xml"
+    },
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookmarks_activity.xml",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab3b_PermissionsLab\\app\\src\\main\\res\\layout\\bookmarks_activity.xml"
+    }
+]

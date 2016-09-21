@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Matei_Alexandru\projects\Lab3c_FragmentsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="277b8bc5cb8489caf6e1e5e939a0e67f14a7bd38">
+        <dex dex="D:\Matei_Alexandru\projects\Lab3c_FragmentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_729f28cb1961a6d26ed0a9da0acfb82fe044ec9e\classes.dex" />
+    </item>
+    <item
+        jar="D:\Matei_Alexandru\projects\Lab3c_FragmentsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9adf386356d6c9228aa7424a5a87dde4adbfb697">
+        <dex dex="D:\Matei_Alexandru\projects\Lab3c_FragmentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ba6c2a4ab67415dd6c3bb856b8da5336773b457\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matei Alexandru\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Matei_Alexandru\projects\Lab3c_FragmentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_51aed41e13319672a17bf2f9d375fcd14f4baa20\classes.dex" />
+    </item>
+
+</items>

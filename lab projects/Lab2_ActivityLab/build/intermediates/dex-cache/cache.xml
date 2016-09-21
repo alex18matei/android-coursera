@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Matei_Alexandru\projects\Lab2_ActivityLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="036e847336a3b0dc567489801bf40b650496ee38">
+        <dex dex="D:\Matei_Alexandru\projects\Lab2_ActivityLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fb87f465a7165022ae3049cb68d1911b6e16ef01\classes.dex" />
+    </item>
+    <item
+        jar="D:\Matei_Alexandru\projects\Lab2_ActivityLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01cd91b7b51aa114663922b16ae467da2a5a4c27">
+        <dex dex="D:\Matei_Alexandru\projects\Lab2_ActivityLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d65fb0ecec56673c3113d7bfd40a5a15d7ef9450\classes.dex" />
+    </item>
+    <item
+        jar="D:\Matei_Alexandru\projects\Lab2_ActivityLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cacb9702407ed162ebfefec8ea21c372efab3b82">
+        <dex dex="D:\Matei_Alexandru\projects\Lab2_ActivityLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d65fb0ecec56673c3113d7bfd40a5a15d7ef9450\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_notification.xml",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\src\\main\\res\\layout\\custom_notification.xml"
+    },
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_front_end.xml",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\src\\main\\res\\layout\\activity_test_front_end.xml"
+    },
+    {
+        "merged": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed.xml",
+        "source": "D:\\Matei_Alexandru\\projects\\Lab6_NotificationsLab\\app\\src\\main\\res\\layout\\feed.xml"
+    }
+]
